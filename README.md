@@ -1,2 +1,2 @@
 # django
-portfolio website
+my portfolio website using Django
